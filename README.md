@@ -25,7 +25,9 @@ This service does not use these “cache” explicitly. However, the app may use
 
 “18th Division NMC” doesn’t use or collect device information.
 
+# Government Services
 
+"18th Division NMC" doesn't provide any government services or uses government services. App just provide quick access to the government website links for users to conviently use the services provided by the government.
 
 # Service Providers
 
